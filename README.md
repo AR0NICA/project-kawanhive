@@ -271,7 +271,7 @@ This autonomous goal re-evaluation capability means that 'KawanHive' is not boun
   
 ---
 
-## 3. Evolutionary Worm Simulator Code (C++) (Evolutionary Worm Simulator Code (C++))
+## 3. Evolutionary Worm Simulator Code (C++)
 
 **⚠️ Important Warning:** This code is a **high-level simulation for exploring the concepts and logic** of an evolutionary worm. It is a virtual model designed for safe execution and analysis and does not contain any harmful functionalities such as actual network attacks, file system access, or malicious behavior.
 
